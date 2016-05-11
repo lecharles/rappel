@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  prospect: MyString
+  seats: 1
+  product_technology: MyString
+  potential_business: 1
+  start_date: 2016-05-11 03:40:00
+  comment: MyText
+
+two:
+  prospect: MyString
+  seats: 1
+  product_technology: MyString
+  potential_business: 1
+  start_date: 2016-05-11 03:40:00
+  comment: MyText
